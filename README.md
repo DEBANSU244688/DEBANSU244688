@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Debansu 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=💻+Rustacean+in+training;📊+Data+Science+%40+IIT+Madras;⚙️+Backend+Dev+%40+Silicon+Institute;🔁+Algo-Trading+Enthusiast;❤️+Engineering+%2B+Creativity" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=💻+Rustacean+In+Training;📊+Data+Science+%40+IIT+Madras;⚙️+Backend+Dev+%40+Silicon+Institute;🔁+Algo-Trading+Enthusiast;❤️+Engineering+%2B+Creativity" alt="Typing SVG" />
 </p>
 
 ---
@@ -61,26 +61,47 @@ Tools    : Git, VS Code, GitHub, Linux
 
 ---
 
-### 🏆 GitHub Trophies
+### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DEBANSU244688&theme=radical&no-frame=true&title=Stars,Commits,PullRequest,Repositories,Followers" />
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=DEBANSU244688&show_icons=true&theme=radical" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEBANSU244688&layout=compact&theme=radical" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
 ### 📫 Let's Connect
 
-<!-- 🌐 Personal website -->
-- 🌐 [Personal Webpage]([https://sites.google.com/view/debansu-debadutta-das/home](https://sites.google.com/view/debansu-debadutta-das/home))
+<p align="center">
+  <a href="https://sites.google.com/view/debansu-debadutta-das/home" target="_blank">
+    <img src="https://img.shields.io/badge/Website-%23726cf8?style=for-the-badge&logo=Google-Chrome&logoColor=white&label=debansu.me" />
+  </a>
+  <a href="https://www.linkedin.com/in/debansu-debadutta-das-37a78a335" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:debansudebaduttadas@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://t.me/yourhandle" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/xdaaasx/?hl=en" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://discord.com/users/734659263523323987" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/Debansu_Debadutta_Das/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+</p>
 
-<!-- 💼 LinkedIn -->
-- 💼 [LinkedIn]([https://www.linkedin.com/in/debansudas](http://www.linkedin.com/in/debansu-debadutta-das-37a78a335))
-
-<!-- 📬 Email -->
-- 📬 Reach me at: **debansudebaduttadas@gmail.com**
-
-<!-- Optional social (add these if you want later)
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- 📸 Instagram: [@yourIG](https://instagram.com/yourIG)
--->
+---
