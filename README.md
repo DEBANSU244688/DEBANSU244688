@@ -72,23 +72,34 @@ Tools    : Git, VS Code, GitHub, Linux
 ### 📫 Let's Connect
 
 <p align="center">
+  <!-- Website -->
   <a href="https://sites.google.com/view/debansu-debadutta-das/home" target="_blank">
-    <img src="https://img.shields.io/badge/Website-%23726cf8?style=for-the-badge&logo=Google-Chrome&logoColor=white&label=debansu.me" />
+    <img src="https://img.shields.io/badge/DEBANSU.ME-6c63ff?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
   </a>
+
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/debansu-debadutta-das-37a78a335" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+
+  <!-- Email -->
   <a href="mailto:debansudebaduttadas@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+
+  <!-- Instagram -->
   <a href="https://www.instagram.com/xdaaasx/?hl=en" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
+
+  <!-- Discord -->
   <a href="https://discord.com/users/734659263523323987" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
+
+  <!-- LeetCode -->
   <a href="https://leetcode.com/u/Debansu_Debadutta_Das/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
 </p>
 
