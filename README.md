@@ -55,15 +55,6 @@ Tools    : Git, VS Code, GitHub, Linux
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DEBANSU244688&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEBANSU244688&layout=compact&theme=radical" />
-</div>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
   <table>
     <tr>
       <td>
@@ -89,9 +80,6 @@ Tools    : Git, VS Code, GitHub, Linux
   </a>
   <a href="mailto:debansudebaduttadas@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://t.me/yourhandle" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/xdaaasx/?hl=en" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
