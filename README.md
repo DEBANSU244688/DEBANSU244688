@@ -23,7 +23,7 @@
 
 - 🧠 *Intelligent File Deduplicator* in Rust  
 - 🧮 *DSA Practice* with a side of spice  
-- 🌐 *Backend with Rust* (Hyper, SeaORM, Axum, and async adventures)
+- 🌐 *Backend with Rust* (Hyper, SeaORM, Axum, and Async Adventures)
 
 ---
 
