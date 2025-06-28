@@ -8,11 +8,13 @@
 
 ### 🧢 Dev Identity Badges
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Rustacean-%23dea584?style=for-the-badge&logo=rust&logoColor=black" />
-  <img src="https://img.shields.io/badge/Backend-Rust%20%26%20Python-%23121011?style=for-the-badge&logo=code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Quant%20Enthusiast-%2300FFAB?style=for-the-badge&logo=chartbar&logoColor=black" />
-  <img src="https://img.shields.io/badge/IIT%20Madras-DS%20Program-%23E6002D?style=for-the-badge&logo=graduation-cap&logoColor=white" />
+<p align="center">
+  <img src="https://img.shields.io/badge/RUSTACEAN-dea584?style=for-the-badge&logo=rust&logoColor=black" alt="Rustacean" />
+  <img src="https://img.shields.io/badge/BACKEND-4B4B4B?style=for-the-badge&logo=server&logoColor=white" alt="Backend" />
+  <img src="https://img.shields.io/badge/RUST%20%26%20PYTHON-000000?style=for-the-badge&logo=python&logoColor=white" alt="Rust and Python" />
+  <img src="https://img.shields.io/badge/QUANT%20ENTHUSIAST-00FFA3?style=for-the-badge&logo=chart-line&logoColor=black" alt="Quant Enthusiast" />
+  <img src="https://img.shields.io/badge/IIT%20MADRAS-5A5A5A?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="IIT Madras" />
+  <img src="https://img.shields.io/badge/DS%20PROGRAM-E6002D?style=for-the-badge&logo=google-scholar&logoColor=white" alt="DS Program" />
 </p>
 
 ---
